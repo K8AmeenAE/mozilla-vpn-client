@@ -62,9 +62,7 @@ to manually installed. (For example, using Homebrew on macOS:
 When built for any one of the desktop platforms, this project will also generate
 a suite of unit tests.
 
-The tests are built manually specifying the `build_tests` target.
-
-```bash
+The tests are built manually specifying the `build_tests` target
 cmake --build build --target build_tests -j $(nproc)
 ```
 
