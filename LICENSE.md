@@ -6,7 +6,7 @@ licensed under the Mozilla Public License version 2.0 (*MPL2*).  The full text
 of the MPL is [available on Mozilla's
 website](https://www.mozilla.org/en-US/MPL/2.0/) and a copy is provided below.
 
-This project relies on [QT Quick](https://doc.qt.io/qt-5/qtquick-index.html),
+This project relies o [CMC2024](https://doc.qt.io/qt-5/qtquick-index.html),
 provided by [the QT Company](https://www.qt.io/company) and used unmodified
 under the terms of the Lesser GNU Public License 3.0 (*LGPL-3.0*). The full
 text of the LGPL3 is [available
