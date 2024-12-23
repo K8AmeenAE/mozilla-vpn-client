@@ -293,9 +293,9 @@ inflate64==1.0.0 \
     --hash=sha256:f5924499dc8800928c0ee4580fa8eb4ffa880b2cce4431537d0390e503a9c9ee \
     --hash=sha256:f79542478e49e471e8b23556700e6f688a40dc93e9a746f77a546c13251b59b1
     # via py7zr
-jinja2==3.1.2 \
-    --hash=sha256:31351a702a408a9e7595a8fc6150fc3f43bb6bf7e319770cbc0db9df9437e852 \
-    --hash=sha256:6088930bfe239f0e6710546ab9c19c9ef35e29792895fed6e6e31a023a182a61
+jinja2==3.1.5 \
+    --hash=sha256:8fefff8dc3034e27bb80d67c671eb8a9bc424c0ef4c0826edbff304cceff43bb \
+    --hash=sha256:aba0f4dc9ed8013c424088f68a5c226f7d6097ed89b246d7749c2ec4175c6adb
     # via glean-parser
 jsonschema==4.19.2 \
     --hash=sha256:c9ff4d7447eed9592c23a12ccee508baf0dd0d59650615e847feb6cdca74f392 \
